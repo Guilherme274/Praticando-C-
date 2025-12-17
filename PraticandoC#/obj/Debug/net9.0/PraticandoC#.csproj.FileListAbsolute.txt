@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\bin\Debug\net9.0\PraticandoC#.exe
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\bin\Debug\net9.0\PraticandoC#.deps.json
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\bin\Debug\net9.0\PraticandoC#.runtimeconfig.json
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\bin\Debug\net9.0\PraticandoC#.dll
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\bin\Debug\net9.0\PraticandoC#.pdb
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\PraticandoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\PraticandoC#.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\PraticandoC#.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\PraticandoC#.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\PraticandoC#.sourcelink.json
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\PraticandoC#.dll
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\refint\PraticandoC#.dll
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\PraticandoC#.pdb
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\PraticandoC#.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\Prática\Exercícios C#\PraticandoC#\obj\Debug\net9.0\ref\PraticandoC#.dll
