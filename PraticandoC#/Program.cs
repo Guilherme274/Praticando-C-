@@ -8,6 +8,7 @@ public class Program
         // Ex02.Executar();
         // Ex03.Executar();
         // Ex04.Executar();
-        Ex05.Executar();
+        // Ex05.Executar();
+        Ex07.Executar();
     }
 }
