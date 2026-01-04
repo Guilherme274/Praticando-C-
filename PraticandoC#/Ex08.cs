@@ -6,11 +6,11 @@ public class Ex08
 {
     public class Fabricante
     {
-        private string _nome;
+        private string? _nome;
         public string Nome { 
                 get
                 {
-                    return _nome;
+                    return _nome!;
                 }  
                 set
                 {
@@ -22,16 +22,16 @@ public class Ex08
                     _nome = value;
                 } 
             }
-        public string Endereco { get; set; }
-        public string Cidade { get; set; }
+        public string? Endereco { get; set; }
+        public string? Cidade { get; set; }
 
       
     }
 
     public class Produto
     {
-        public string Nome { get; set; }
-        public Fabricante fabricante { get; set; }
+        public string? Nome { get; set; }
+        public Fabricante? fabricante { get; set; }
         private float _preco;
         public float Preco {
                 get
